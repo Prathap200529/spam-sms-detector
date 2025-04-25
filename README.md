@@ -103,6 +103,7 @@ predict(processed_input)
 
 - simple and easy to use and understand since it has no complicated code.
 - it as a data set of 5000 sms so it would compare and give accurate results.
+- in the file url enter the url where the file is saved in your drive in my case i have created a folder specially for this project so i have named that path
 
 
 ## FAQ
